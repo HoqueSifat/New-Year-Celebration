@@ -1,0 +1,62 @@
+header {
+    font-family: "Merriweather", serif;
+}
+
+
+div>h4 {
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+
+div>h2 {
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 16px;
+}
+
+.header-section {
+    align-items: center;
+    background-image: url('../resources/Banner\ Image.png');
+    background: rgb(7, 2, 17) rgba(7, 2, 17, 0);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.new-year {
+    text-align: center;
+    padding: 175px 340px;
+}
+
+.discount-offer {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.offer-para {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+    margin-bottom: 0px;
+}
+
+.offer-catagory {
+    olor: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+.offer-section{
+    text-align: center;
+    margin-top: 60px;
+}
