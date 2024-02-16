@@ -112,3 +112,128 @@ div>h2 {
     margin-left: 60px;
     padding: 65px 135px 65px 0px;
 }
+
+.portfolio-section {
+    margin: 120px 140px;
+}
+
+.best {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.portfolio-header {
+    olor: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+
+.portfolio-description {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.first-picture {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 0px;
+    transition: background-color 0.5s;
+}
+
+.second-picture {
+    display: flex;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.first-picture:hover {
+    background-color: red;
+}
+
+.second-picture:hover {
+    background-color: red;
+}
+
+.newsletter-section {
+    margin: 120px 140px;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.subscribe-header {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.newsletter-div {
+    padding: 80px 212px;
+}
+
+.button {
+    border-radius: 0px 50px 50px 0px;
+    margin-right: 0px;
+}
+
+.email-input {
+    border-radius: 50px 0px 0px 50px;
+    background: rgb(255, 255, 255);
+    margin-left: 0px;
+    padding: 21px 450px 21px 30px;
+    border: 0px;
+}
+
+.footer-section {
+    background: rgb(7, 2, 17);
+   
+    
+}
+.footer-first-part{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 140px ;
+}
+
+.footer-call {
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-description {
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.line{
+    border: 1px solid rgba(255, 255, 255, 0.178);
+}
+.footer-images{
+   
+    height: 64px;
+    width: 64px;
+    display: flex;
+   gap: 24px;
+   padding: 48px 750px;
+}
+.footer-end{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 140px 120px 140px;
+}
