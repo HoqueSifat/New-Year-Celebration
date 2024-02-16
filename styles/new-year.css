@@ -113,6 +113,25 @@ div>h2 {
     padding: 65px 135px 65px 0px;
 }
 
+.bonus-section {
+    display: flex;
+    padding: 120px 140px;
+    gap: 118px;
+    align-items: center;
+}
+
+.bonus-picture {
+    box-sizing: border-box;
+    border: 15px solid rgb(255, 0, 0);
+}
+
+.bonus-year {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
 .portfolio-section {
     margin: 120px 140px;
 }
@@ -196,13 +215,14 @@ div>h2 {
 
 .footer-section {
     background: rgb(7, 2, 17);
-   
-    
+
+
 }
-.footer-first-part{
+
+.footer-first-part {
     display: flex;
     justify-content: space-between;
-    padding: 120px 140px ;
+    padding: 120px 140px;
 }
 
 .footer-call {
@@ -221,18 +241,21 @@ div>h2 {
     font-size: 24px;
     font-weight: 500;
 }
-.line{
+
+.line {
     border: 1px solid rgba(255, 255, 255, 0.178);
 }
-.footer-images{
-   
+
+.footer-images {
+
     height: 64px;
     width: 64px;
     display: flex;
-   gap: 24px;
-   padding: 48px 750px;
+    gap: 24px;
+    padding: 48px 750px;
 }
-.footer-end{
+
+.footer-end {
     display: flex;
     justify-content: space-between;
     padding: 50px 140px 120px 140px;
